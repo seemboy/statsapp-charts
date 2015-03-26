@@ -1,0 +1,1 @@
+var mainmodule = angular.module('redis-charts',["themeModule","gsModule"]);
